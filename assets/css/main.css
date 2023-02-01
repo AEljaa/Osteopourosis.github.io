@@ -1167,7 +1167,7 @@
 		justify-content: center;
 		padding: 8em 4em 6em 4em;
 		min-height: 70vh;
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/spacebanner.jpg");
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
@@ -1289,7 +1289,7 @@
 			-ms-transition-delay: 1s;
 			transition-delay: 1s;
 			content: '';
-			background-color: #42424f;
+			background-color: #000000;
 			display: block;
 			height: 100%;
 			left: 0;
