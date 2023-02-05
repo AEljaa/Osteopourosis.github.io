@@ -17,6 +17,9 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
+	
+			text-align: center;
+		  
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -1177,6 +1180,7 @@
 		overflow: hidden;
 	}
 
+
 		#banner .inner {
 			text-align: center;
 			position: relative;
@@ -1365,7 +1369,7 @@
 
 	#footer {
 		padding: 4em 0 2em 0;
-		background-color: #1b1b1f;
+		background-color: #000000;
 		text-align: center;
 	}
 
